@@ -1,2 +1,9 @@
-# Learning-PHP
-This repository for learning PHP from basic to advance by using code
+# How to clone repo in your local host 
+
+# Step1
+
+if you are using git bash terminal
+
+git clone https://github.com/sudhanshuit9/Learning-PHP.git
+
+
